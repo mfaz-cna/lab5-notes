@@ -5,3 +5,7 @@ git commit -m          #adds a comment about changes and why
 
 git remote add origin git@github.com:username/projectname.git   #connects local repository 
 git push -u origin main                                         #pushes it to git
+
+git pull origin main   #pulls downloads and integrates changes from remote repository into local copy
+
+git lot                #full commit history, author, date, full message
